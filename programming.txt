@@ -1,0 +1,8 @@
+Proqlamlaşdırma nədir?
+Proqramlaşdırma hər hansı bir hərəkəti icra etmək üçün lazım olan əmrləri kompüterin anlayacağı dilə çevirmə prosesidir.
+Software nədir və kompüterdə necə emal olunur?
+Software kompyuterə necə işləmək lazım olduğunu göstərən əmrlər və məlumatlar toplusudur.Bu əmrlərin processorda oxunması və hadisəyə çevrilməsi prosesi Software-in emal olunmasıdır.Processor bu əmrləri Binary Code vasitəsilə qəbul edir.
+Proqramlaşdırma dillərini hansı xüsusiyyətlərinə görə qruplaşdırarsan?
+Proqramlaşdırma dillərini bir neçə yolla qruplaşdırmaq olar.İlk öncə onları yaranma tarixi və aid olduqları nəsillərə görə qruplaşdırmaq olar.Maşın dilinə və ya İnsan dilinə yaxınlığına görə də qruplaşdıra bilərik.Həmçinin proqramlaşdırma dillərini paradigmalar hesabına qruplaşdırmaq olar.Bu qruplara görə fərqli dillərin xüsusiyyətlərini və hansı funksiyaları ən yaxşı yerinə yetirdiklərini görə bilərik.
+
+Əlizadə Elvin
